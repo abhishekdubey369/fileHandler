@@ -1,0 +1,21 @@
+{
+  "name": "filehandler",
+  "version": "1.0.0",
+  "description": "basic project on fs",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abhishekdubey369/fileHandler.git"
+  },
+  "author": "Asd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekdubey369/fileHandler/issues"
+  },
+  "homepage": "https://github.com/abhishekdubey369/fileHandler#readme"
+}
