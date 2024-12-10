@@ -7,6 +7,12 @@ async function createFile(fileName){
   const fileCreate = await fs.open(fileName,"w");
 }
 }
+async function deleteFile(fileName){
+  Pass
+}
+async function renameFile(fileName){
+  Pass
+}
 (async ()=>{
   const watcher = fs.watch("./"); // returns {eventType , filename}
   //cool lets now open our file
